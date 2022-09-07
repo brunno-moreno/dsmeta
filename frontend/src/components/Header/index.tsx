@@ -1,5 +1,5 @@
-import logo from "../../assets/img/logo.svg"
-import "./styles.css"
+import logo from "../../assets/img/logo.svg";
+import "./styles.css";
 
 function Header() {
     return (
@@ -7,9 +7,9 @@ function Header() {
             <div className="dsmeta-logo-container">
                 <img src={logo} alt="DSMeta" />
                 <h1>DSMeta</h1>
-                <p>Desenvolvido por
+                <p>Desenvolvido por 
 
-                    <a href="https://github.com/brunno-moreno">@brunno-moreno(github)</a>
+                    <a href="https://github.com/brunno-moreno"> @brunno-moreno(github)</a>
 
                 </p>
             </div>
@@ -17,4 +17,4 @@ function Header() {
     )
 }
 
-export default Header
+export default Header;
