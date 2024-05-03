@@ -5,7 +5,9 @@
 
 
 <h3>Algumas funcionalidades:</h3>
-<p>1. Aplicação que apresenta dados de venda e de vendedor em uma tabela</p>
-<p>2. Sistema de notificação por SMS para notificar vendedores</p>
-<p>3. Cálculo de valor de vendas totais por vendedor</p> 
-<p>4. Possibilidade de análise do relatório por período especificado de data</p>
+<ul>
+  <li>Apresentação de dados de venda e de vendedor em uma tabela</li>
+  <li>Sistema de notificação por SMS para notificar vendedores</li>
+  <li>Cálculo de valor de vendas totais por vendedor</li> 
+  <li>Possibilidade de análise do relatório por período especificado de data</li>
+</ul>
